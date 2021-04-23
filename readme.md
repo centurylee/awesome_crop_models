@@ -4,12 +4,15 @@
 </div>
 
 
+A curated list of awesome crop simulation models, frameworks, libraries and software (by language).
+
+
 ## Contents
 
 
 - [Crop Simulation Models](#crop-simulation-models)
 - [Python](#python)
-- [R][#rtools]
+- [R](#rtools)
 
 
 ## Crop simulation models
